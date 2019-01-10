@@ -1,4 +1,4 @@
-# http-library
+# HTTP library
 
 Custom HTTP library
 
